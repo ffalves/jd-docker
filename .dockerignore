@@ -1,2 +1,6 @@
-# Virtual environments
 .venv
+__pycache__
+*.pyc
+.git
+.DS_Store
+.streamlit/secrets.toml
